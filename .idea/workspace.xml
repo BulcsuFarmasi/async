@@ -28,8 +28,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../async/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+            <state relative-caret-position="114">
+              <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -48,27 +48,30 @@
       <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../async/promise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1368">
-              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="58" />
+            <state relative-caret-position="1254">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="26" selection-end-column="59" />
               <folding>
                 <marker date="1488744919344" expanded="false" signature="0:44" ph="/** Created by Dell on 2017. 03. 05.. ...*/" />
-                <marker date="1488744919344" expanded="true" signature="205:446" ph="{...}" />
-                <marker date="1488744919344" expanded="true" signature="250:306" ph="{...}" />
-                <marker date="1488744919344" expanded="true" signature="326:435" ph="{...}" />
-                <marker date="1488744919344" expanded="true" signature="347:398" ph="{...}" />
-                <marker date="1488744919344" expanded="true" signature="500:836" ph="{...}" />
-                <marker date="1488744919344" expanded="true" signature="564:687" ph="{&quot;root&quot;: 'main'...}" />
-                <marker date="1488744919344" expanded="true" signature="711:751" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="generator.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="generator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../async/generator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="async.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../async/async.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -89,8 +92,10 @@
         <option value="$PROJECT_DIR$/../async/.gitignore" />
         <option value="$PROJECT_DIR$/../async/package.json" />
         <option value="$PROJECT_DIR$/../async/promise.js" />
-        <option value="$PROJECT_DIR$/../async/index.js" />
         <option value="$PROJECT_DIR$/../async/generator.js" />
+        <option value="$PROJECT_DIR$/../async/node_modules/async.js" />
+        <option value="$PROJECT_DIR$/../async/index.js" />
+        <option value="$PROJECT_DIR$/../async/async.js" />
       </list>
     </option>
   </component>
@@ -147,6 +152,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web\wamp64\www\hobbi\async" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
@@ -210,18 +220,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1488742901151</updated>
-      <workItem from="1488742902399" duration="4476000" />
+      <workItem from="1488742902399" duration="5104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4476000" />
+    <option name="totallyTimeSpent" value="5104000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3844" height="2092" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -267,35 +277,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../async/generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../async/promise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="58" />
+        <state relative-caret-position="1254">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="26" selection-end-column="59" />
           <folding>
             <marker date="1488744919344" expanded="false" signature="0:44" ph="/** Created by Dell on 2017. 03. 05.. ...*/" />
-            <marker date="1488744919344" expanded="true" signature="205:446" ph="{...}" />
-            <marker date="1488744919344" expanded="true" signature="250:306" ph="{...}" />
-            <marker date="1488744919344" expanded="true" signature="326:435" ph="{...}" />
-            <marker date="1488744919344" expanded="true" signature="347:398" ph="{...}" />
-            <marker date="1488744919344" expanded="true" signature="500:836" ph="{...}" />
-            <marker date="1488744919344" expanded="true" signature="564:687" ph="{&quot;root&quot;: 'main'...}" />
-            <marker date="1488744919344" expanded="true" signature="711:751" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../async/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+        <state relative-caret-position="114">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../async/generator.js">
+    <entry file="file://$PROJECT_DIR$/../async/async.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        <state relative-caret-position="741">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding />
         </state>
       </provider>
