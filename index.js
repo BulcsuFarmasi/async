@@ -1,2 +1,2 @@
-require('./promise');
+//require('./promise');
 require('./generator');
