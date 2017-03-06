@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/async.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1449">
-              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+              <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -211,12 +211,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488742901151</updated>
       <workItem from="1488742902399" duration="6007000" />
-      <workItem from="1488817959882" duration="1842000" />
+      <workItem from="1488817959882" duration="1937000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7849000" />
+    <option name="totallyTimeSpent" value="7944000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3844" height="2092" extended-state="0" />
@@ -369,7 +369,7 @@
     <entry file="file://$PROJECT_DIR$/async.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1449">
-          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+          <caret line="29" column="35" lean-forward="false" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
           <folding />
         </state>
       </provider>

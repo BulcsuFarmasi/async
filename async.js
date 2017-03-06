@@ -27,9 +27,4 @@ async function read () {
     return txt;
 }
 
-async function write(){
-    var txt=await read();
-    console.log(txt);
-}
-
-write();
+read.then(txt => console.log(txt));
