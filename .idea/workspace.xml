@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd9346cc-461b-46f5-9116-ce98b9616121" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/async-fun.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/async.js" afterPath="$PROJECT_DIR$/async.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,17 +29,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="async.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="async.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/async.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="52" />
+            <state relative-caret-position="1449">
+              <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="async-fun.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="async-fun.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/async-fun.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
@@ -70,11 +68,11 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/promise.js" />
         <option value="$PROJECT_DIR$/node_modules/async.js" />
-        <option value="$PROJECT_DIR$/async.js" />
         <option value="$PROJECT_DIR$/generator-simpe.js" />
         <option value="$PROJECT_DIR$/generator.js" />
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/async-fun.js" />
+        <option value="$PROJECT_DIR$/async.js" />
       </list>
     </option>
   </component>
@@ -213,12 +211,12 @@
       <option name="presentableId" value="Default" />
       <updated>1488742901151</updated>
       <workItem from="1488742902399" duration="6007000" />
-      <workItem from="1488817959882" duration="1625000" />
+      <workItem from="1488817959882" duration="1842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7632000" />
+    <option name="totallyTimeSpent" value="7849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3844" height="2092" extended-state="0" />
@@ -350,14 +348,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="7" column="52" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -372,6 +362,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/async.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="34" column="8" lean-forward="false" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
           <folding />
         </state>
       </provider>

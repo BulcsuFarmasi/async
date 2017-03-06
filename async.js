@@ -14,8 +14,6 @@ function getRandomPonyFooArticle(){
     });
 }
 
-read();
-
 async function read () {
     var html = await getRandomPonyFooArticle();
     var md = hget(html, {
@@ -26,5 +24,12 @@ async function read () {
     var txt = marked(md, {
         renderer: new Term()
     });
+    return txt;
+}
+
+async function write(){
+    var txt=await read();
     console.log(txt);
 }
+
+write();
