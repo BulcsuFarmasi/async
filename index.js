@@ -1,3 +1,4 @@
 //require('./promise');
-require('./generator');
+//require('./generator');
 require('./async');
+//require('./generator-simpe');

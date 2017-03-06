@@ -5,9 +5,10 @@ var Term=require('marked-terminal');
 
 function getRandomPonyFooArticle (gen) {
     var g = gen();
-    request('https://ponyfoo.com/articles/random', (err, res, body) => {
-        if (err) {
-            g.throw(err); return;
+    g.next();
+    request('https://ponyfoo.com/articles/random',{},(err,res,body) => {
+        if(err){
+            g.throw(err);
         }
         g.next(body);
     });
