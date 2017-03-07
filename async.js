@@ -27,4 +27,4 @@ async function read () {
     return txt;
 }
 
-read.then(txt => console.log(txt));
+read().then(txt => console.log(txt));

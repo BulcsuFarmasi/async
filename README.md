@@ -1,0 +1,1 @@
+Trying out ES2017 async functions based on <a href="https://ponyfoo.com/articles/understanding-javascript-async-await">this tutorial</a>
